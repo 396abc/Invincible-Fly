@@ -1,6 +1,6 @@
 # Invincible-Fly
 The offical repository for the most popular Invincible FE script on Roblox. What this repository contains:
- - R6 Invincible Fly (coming soon)
+ - R6 Invincible Fly 
  - The main Invincible Fly script
 
 # Why the new repository?
